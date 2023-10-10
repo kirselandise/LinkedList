@@ -15,3 +15,4 @@ Assumptions:
 
 
 Output Images: 
+![LinkedList](https://github.com/kirselandise/LinkedList/assets/83589688/80d4e399-9093-4c07-a824-cb6657e91678)
