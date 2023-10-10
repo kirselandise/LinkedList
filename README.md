@@ -1,4 +1,4 @@
-# Assignment 1 for CS303
+# Assignment 2 for CS303
 # Trinity McCann | tlmqdm@umsystem.edu | Student ID: 12564691
 
 Project Outline: 
